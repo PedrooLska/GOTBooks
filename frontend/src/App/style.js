@@ -14,7 +14,6 @@ body {
   font-family: Arial, Helvetica, sans-serif;
   text-align: center;
 }
-
 `;
 
 const Container = styled.div`
