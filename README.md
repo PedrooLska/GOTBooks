@@ -3,7 +3,7 @@ Projeto desenvolvido para consumir a API de Livros de Game Of Thrones.
 
 <h2>:rocket: Tecnologias</h2>
 
-:white_check_mark: - ReactJS
+:white_check_mark: - ReactJS (React Hooks, Async/Await, Arrow Function, Map)
 
 :white_check_mark: - Styled Components
 
